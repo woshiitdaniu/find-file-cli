@@ -1,0 +1,15 @@
+{
+  "name": "find-file-cli",
+  "version": "1.0.0",
+  "description": "find unuse file and light them",
+  "main": "index.js",
+  "repository":"https://gitee.com/Bingo996/find-file-cli.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bingo",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
